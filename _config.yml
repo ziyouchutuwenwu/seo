@@ -6,7 +6,6 @@ description: [整站描述]
 color-scheme: auto
 logo: /assets/img/code.png
 
-
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
@@ -15,13 +14,18 @@ platforms:
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/vaibhavvikas
 
-
 # 导航
 navigation:
-  - name: Readme
-    link: ./index.html
+  - name: 工具
+    link: ./工具.md
+  - name: 关键字
+    link: ./关键字.md
     sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+      - name: 寻找
+        link: ./寻找.md
+  - name: 推广渠道
+    link: ./推广渠道.md
+  - name: 需求挖掘
+    link: ./需求挖掘.md
+  - name: 页面优化
+    link: ./页面优化.md
