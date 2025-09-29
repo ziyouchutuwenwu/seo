@@ -1,16 +1,1 @@
-title: "测试标题"
 remote_theme: "pmarsceill/just-the-docs"
-
-docs_dir: "_docs"
-just_the_docs:
-  navigation:
-    auto: true
-
-header_pages:
-  - index.md
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: custom
