@@ -1,1 +1,26 @@
-remote_theme: "pmarsceill/just-the-docs"
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
+color-scheme: auto
+#logo: /assets/img/<logo_file>
+
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
+
+
+navigation:
+  - name: Readme
+    link: ./index.html
+    sublist:
+      - name: Image
+        link: ./index.html#small-image
+  - name: Another Page
+    link: ./another-page.html
