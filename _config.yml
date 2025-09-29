@@ -1,10 +1,10 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [整站标题]
+description: [整站描述]
 
 color-scheme: auto
-#logo: /assets/img/<logo_file>
+logo: /assets/img/code.png
 
 
 platforms:
@@ -16,6 +16,7 @@ platforms:
     link: https://www.linkedin.com/in/vaibhavvikas
 
 
+# 导航
 navigation:
   - name: Readme
     link: ./index.html
